@@ -23,6 +23,8 @@ This repository will host the model architecture and training code accompanying 
 | Trained weights and spectral data | Not distributed |
 | Soil property predictions | Available through the [WorldSpecs platform](https://worldspecs.soilslab.ai) |
 
+No soil data or trained models are distributed through WorldSpecs: the data remain with their owners, under the data-sharing agreements made with each contributor.
+
 ## Developed by
 
 Soil-MAE was developed within WorldSpecs by the [Soil Science Artificial Intelligence Laboratory](https://soilslab.ai), University of Florida, USA ([GitHub](https://github.com/Soil-Science-AI-Lab)), and the [Geotechnologies in Soil Science group (GeoCiS)](https://geocis.esalq.usp.br/), Luiz de Queiroz College of Agriculture, University of São Paulo, Brazil.
