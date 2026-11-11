@@ -25,8 +25,9 @@ This repository will host the model architecture and training code accompanying 
 
 ## Developed by
 
-- [Geotechnologies in Soil Science group (GeoCiS)](https://geocis.esalq.usp.br/), Luiz de Queiroz College of Agriculture, University of São Paulo, Brazil.
-- [Soil Science Artificial Intelligence Laboratory](https://soilslab.ai), University of Florida, USA · [GitHub](https://github.com/Soil-Science-AI-Lab).
+Soil-MAE was developed within WorldSpecs by the [Soil Science Artificial Intelligence Laboratory](https://soilslab.ai), University of Florida, USA ([GitHub](https://github.com/Soil-Science-AI-Lab)), and the [Geotechnologies in Soil Science group (GeoCiS)](https://geocis.esalq.usp.br/), Luiz de Queiroz College of Agriculture, University of São Paulo, Brazil.
+
+It was pretrained on the WorldSpecs global soil spectral library, built with data shared by more than 150 soil scientists, laboratories and institutions in 109 countries. Authors and contributors are listed in the accompanying article.
 
 ## Citation
 
